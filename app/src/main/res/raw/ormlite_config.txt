@@ -1,0 +1,165 @@
+#
+# generated on 2019/09/01 08:30:23
+#
+# --table-start--
+dataClass=com.church.churchapp.lenin.databasechurch.copymembers
+tableName=copymiembros
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=idmember
+# --field-end--
+# --field-start--
+fieldName=fecha
+# --field-end--
+# --field-start--
+fieldName=nombre
+# --field-end--
+# --field-start--
+fieldName=apellidos
+# --field-end--
+# --field-start--
+fieldName=edad
+# --field-end--
+# --field-start--
+fieldName=tipomiembro
+# --field-end--
+# --field-start--
+fieldName=numerote
+# --field-end--
+# --field-start--
+fieldName=operadora
+# --field-end--
+# --field-start--
+fieldName=ecivil
+# --field-end--
+# --field-start--
+fieldName=direccion
+# --field-end--
+# --field-start--
+fieldName=diallamada
+# --field-end--
+# --field-start--
+fieldName=horario
+# --field-end--
+# --field-start--
+fieldName=motivo
+# --field-end--
+# --field-start--
+fieldName=nombreseguidor
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
+# --table-start--
+dataClass=com.church.churchapp.lenin.databasechurch.memberdownload
+tableName=miembrosdow
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=keynode
+# --field-end--
+# --field-start--
+fieldName=fecha
+# --field-end--
+# --field-start--
+fieldName=nombre
+# --field-end--
+# --field-start--
+fieldName=apellidos
+# --field-end--
+# --field-start--
+fieldName=edad
+# --field-end--
+# --field-start--
+fieldName=tipomiembro
+# --field-end--
+# --field-start--
+fieldName=numerote
+# --field-end--
+# --field-start--
+fieldName=operadora
+# --field-end--
+# --field-start--
+fieldName=ecivil
+# --field-end--
+# --field-start--
+fieldName=direccion
+# --field-end--
+# --field-start--
+fieldName=diallamada
+# --field-end--
+# --field-start--
+fieldName=horario
+# --field-end--
+# --field-start--
+fieldName=motivo
+# --field-end--
+# --field-start--
+fieldName=nombreseguidor
+# --field-end--
+# --field-start--
+fieldName=trasladoserverlocal
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
+# --table-start--
+dataClass=com.church.churchapp.lenin.databasechurch.members
+tableName=miembros
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=fecha
+# --field-end--
+# --field-start--
+fieldName=nombre
+# --field-end--
+# --field-start--
+fieldName=apellidos
+# --field-end--
+# --field-start--
+fieldName=edad
+# --field-end--
+# --field-start--
+fieldName=tipomiembro
+# --field-end--
+# --field-start--
+fieldName=numerote
+# --field-end--
+# --field-start--
+fieldName=operadora
+# --field-end--
+# --field-start--
+fieldName=ecivil
+# --field-end--
+# --field-start--
+fieldName=direccion
+# --field-end--
+# --field-start--
+fieldName=diallamada
+# --field-end--
+# --field-start--
+fieldName=horario
+# --field-end--
+# --field-start--
+fieldName=motivo
+# --field-end--
+# --field-start--
+fieldName=nombreseguidor
+# --field-end--
+# --field-start--
+fieldName=uploadfirebase
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

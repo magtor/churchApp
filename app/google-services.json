@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "813134514163",
+    "firebase_url": "https://churchlenin2.firebaseio.com",
+    "project_id": "churchlenin2",
+    "storage_bucket": "churchlenin2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813134514163:android:9c188fc018efc22a",
+        "android_client_info": {
+          "package_name": "com.church.churchapp.lenin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813134514163-tf7svcqi6v6ap2abm89avqa8od9j227i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUHtNQwyP6358bJmUUWE6lC0Iw9SsrhWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813134514163-tf7svcqi6v6ap2abm89avqa8od9j227i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
